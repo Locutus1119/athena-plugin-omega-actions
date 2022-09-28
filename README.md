@@ -7,8 +7,6 @@ The plugin is still under development. All ideas, advice and improvements are we
 Credits:
 https://github.com/cptprice1139/altv-sit
 
-Special thanks to DerLord for all the help!
-
 Install plugin:
 
 Drop files into omega-actions here -> src/core/plugins
